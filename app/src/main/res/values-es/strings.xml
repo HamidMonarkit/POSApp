@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POSApp</string>
+    <string name="select_language">Elige tu idioma</string>
+    <string name="next">Siguiente</string>
+</resources>
